@@ -35,14 +35,14 @@
 
 ```bash
 # Depoyu klonla
-git clone https://github.com/kullanici/finanshield.git
+https://github.com/SUmidcyber/Finanshield.git
 cd finanshield
 
 # Gereksinimleri yükle
 pip install -r requirements.txt
 
 # Çalıştır
-python finanshield_analyzer.py
+python banka.py
 ```
 ## 📂 Proje Yapısı
     finanshield/
