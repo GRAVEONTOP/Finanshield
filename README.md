@@ -1,8 +1,9 @@
 # 🔒 Finanshield Analyzer
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x250/2c3e50/ffffff?text=Finanshield+Analyzer" alt="Finanshield Analyzer Banner">
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e3b77f72-7362-483d-819c-44526bd1a953" width="500" alt="Ekran Görüntüsü">
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue">
