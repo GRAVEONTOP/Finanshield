@@ -46,7 +46,7 @@ python banka.py
 ```
 ## 📂 Proje Yapısı
     finanshield/
-    ├── finanshield_analyzer.py   # Ana uygulama
+    ├── banka.py   # Ana uygulama
     ├── requirements.txt          # Bağımlılıklar
     ├── LICENSE                   # Lisans dosyası
     └── README.md                 # Proje dokümantasyonu
