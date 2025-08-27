@@ -1,0 +1,10 @@
+tk
+matplotlib
+numpy
+pandas
+scikit-learn
+Pillow
+requests
+folium
+plotly
+seaborn
